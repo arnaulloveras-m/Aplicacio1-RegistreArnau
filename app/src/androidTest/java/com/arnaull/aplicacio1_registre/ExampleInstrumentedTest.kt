@@ -1,4 +1,4 @@
-package com.marcrubio.aplicacio1_registre
+package com.arnaull.aplicacio1_registre
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

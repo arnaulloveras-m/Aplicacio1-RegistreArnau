@@ -1,4 +1,4 @@
-package com.marcrubio.aplicacio1_registre
+package com.arnaull.aplicacio1_registre
 
 import org.junit.Test
 
